@@ -1,2 +1,6 @@
 #!/bin/bash
-chown -hR vincent:staff 0x01-shell_permissions/
+chown vincent:staff dir0/
+chown vincent:staff dir1/
+chown vincent:staff dir2/
+chown vincent:staff my_dir/
+chown vincent:staff hello
